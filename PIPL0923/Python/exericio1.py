@@ -13,4 +13,4 @@ elif num3>num1 and num1>num2:
 elif num2>num1 and num1>num3:
     print("Numero 2 é o menor, numero 1 é o do meio, Numero 3 é o maior")
 elif num2>num3 and num3>num1:
-    print("Numero 2 é o maior Numero 3 é o do meio Numero 1 é o menor ")
+    print("Numero 2 é o maior Numero 3 é o do meio Numero 1 é o menor")
