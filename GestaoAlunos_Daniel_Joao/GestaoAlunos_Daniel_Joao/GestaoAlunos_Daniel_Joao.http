@@ -1,0 +1,6 @@
+@GestaoAlunos_Daniel_Joao_HostAddress = http://localhost:5249
+
+GET {{GestaoAlunos_Daniel_Joao_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
